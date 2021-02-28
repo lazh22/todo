@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/lazh22.github.io/todo/static/js/main.ec207db5.chunk.js",
-    "main.js.map": "/lazh22.github.io/todo/static/js/main.ec207db5.chunk.js.map",
-    "runtime-main.js": "/lazh22.github.io/todo/static/js/runtime-main.8b2a4e92.js",
-    "runtime-main.js.map": "/lazh22.github.io/todo/static/js/runtime-main.8b2a4e92.js.map",
-    "static/js/2.f35ae9a9.chunk.js": "/lazh22.github.io/todo/static/js/2.f35ae9a9.chunk.js",
-    "static/js/2.f35ae9a9.chunk.js.map": "/lazh22.github.io/todo/static/js/2.f35ae9a9.chunk.js.map",
-    "index.html": "/lazh22.github.io/todo/index.html",
-    "static/js/2.f35ae9a9.chunk.js.LICENSE.txt": "/lazh22.github.io/todo/static/js/2.f35ae9a9.chunk.js.LICENSE.txt"
+    "main.js": "/todo/static/js/main.ec207db5.chunk.js",
+    "main.js.map": "/todo/static/js/main.ec207db5.chunk.js.map",
+    "runtime-main.js": "/todo/static/js/runtime-main.8ff055e3.js",
+    "runtime-main.js.map": "/todo/static/js/runtime-main.8ff055e3.js.map",
+    "static/js/2.f35ae9a9.chunk.js": "/todo/static/js/2.f35ae9a9.chunk.js",
+    "static/js/2.f35ae9a9.chunk.js.map": "/todo/static/js/2.f35ae9a9.chunk.js.map",
+    "index.html": "/todo/index.html",
+    "static/js/2.f35ae9a9.chunk.js.LICENSE.txt": "/todo/static/js/2.f35ae9a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b2a4e92.js",
+    "static/js/runtime-main.8ff055e3.js",
     "static/js/2.f35ae9a9.chunk.js",
     "static/js/main.ec207db5.chunk.js"
   ]
